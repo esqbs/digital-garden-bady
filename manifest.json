@@ -1,0 +1,11 @@
+{
+	"id": "digitalgardenbaby",
+	"name": "Digital Garden Baby",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Upload notes to github",
+	"author": "eaqbs",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
